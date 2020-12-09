@@ -1,0 +1,14 @@
+{
+  "name": "nedis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuxino/nedis.git",
+  "author": "yuxino <nbsawz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":  "ts-node index.js"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1"
+  }
+}
